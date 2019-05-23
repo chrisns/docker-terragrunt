@@ -1,4 +1,7 @@
 # Docker Terragrunt
+
+[![Docker Repository on Quay](https://quay.io/repository/ukhomeofficedigital/dq-docker-terragrunt/status "Docker Repository on Quay")](https://quay.io/repository/ukhomeofficedigital/dq-docker-terragrunt)
+
 [Terragrunt](https://github.com/gruntwork-io/terragrunt/) running with Terraform version 0.11.14
 
 ## Structure
